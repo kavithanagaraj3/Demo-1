@@ -1,12 +1,8 @@
-package com.javatpoint;  
-/** 
- * Hello world! 
- * 
- */  
-public class App   
-{  
-    public static void main( String[] args )  
-    {  
-        System.out.println( "Hello World!" );  
-    }  
-}  
+
+<project>
+  <modelVersion>4.0.0</modelVersion>
+ 
+  <groupId>com.mycompany.app</groupId>
+  <artifactId>my-module</artifactId>
+  <version>1</version>
+</project>
